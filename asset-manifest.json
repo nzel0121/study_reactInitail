@@ -1,13 +1,13 @@
 {
-  "main.css": "/reactByNomad/static/css/main.72295c88.chunk.css",
-  "main.js": "/reactByNomad/static/js/main.5a264189.chunk.js",
-  "main.js.map": "/reactByNomad/static/js/main.5a264189.chunk.js.map",
-  "runtime~main.js": "/reactByNomad/static/js/runtime~main.ec99f3fe.js",
-  "runtime~main.js.map": "/reactByNomad/static/js/runtime~main.ec99f3fe.js.map",
-  "static/js/2.7e663f1c.chunk.js": "/reactByNomad/static/js/2.7e663f1c.chunk.js",
-  "static/js/2.7e663f1c.chunk.js.map": "/reactByNomad/static/js/2.7e663f1c.chunk.js.map",
-  "index.html": "/reactByNomad/index.html",
-  "precache-manifest.fbf6aedd24c71e7c8fbe40cd607a6c19.js": "/reactByNomad/precache-manifest.fbf6aedd24c71e7c8fbe40cd607a6c19.js",
-  "service-worker.js": "/reactByNomad/service-worker.js",
-  "static/css/main.72295c88.chunk.css.map": "/reactByNomad/static/css/main.72295c88.chunk.css.map"
+  "main.css": "/study_reactInitail/static/css/main.72295c88.chunk.css",
+  "main.js": "/study_reactInitail/static/js/main.9352bbbb.chunk.js",
+  "main.js.map": "/study_reactInitail/static/js/main.9352bbbb.chunk.js.map",
+  "runtime~main.js": "/study_reactInitail/static/js/runtime~main.073e7da5.js",
+  "runtime~main.js.map": "/study_reactInitail/static/js/runtime~main.073e7da5.js.map",
+  "static/js/2.7e663f1c.chunk.js": "/study_reactInitail/static/js/2.7e663f1c.chunk.js",
+  "static/js/2.7e663f1c.chunk.js.map": "/study_reactInitail/static/js/2.7e663f1c.chunk.js.map",
+  "index.html": "/study_reactInitail/index.html",
+  "precache-manifest.3f6b169748ad2c101748b13f7892a6bc.js": "/study_reactInitail/precache-manifest.3f6b169748ad2c101748b13f7892a6bc.js",
+  "service-worker.js": "/study_reactInitail/service-worker.js",
+  "static/css/main.72295c88.chunk.css.map": "/study_reactInitail/static/css/main.72295c88.chunk.css.map"
 }
