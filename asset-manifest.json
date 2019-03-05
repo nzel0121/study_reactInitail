@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.72295c88.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.ef417657.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.ef417657.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.cde22863.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.cde22863.js.map",
-  "static/js/2.7e663f1c.chunk.js": "/react-gh-pages/static/js/2.7e663f1c.chunk.js",
-  "static/js/2.7e663f1c.chunk.js.map": "/react-gh-pages/static/js/2.7e663f1c.chunk.js.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.2900952a40a294fe24153a2d56a3934e.js": "/react-gh-pages/precache-manifest.2900952a40a294fe24153a2d56a3934e.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js",
-  "static/css/main.72295c88.chunk.css.map": "/react-gh-pages/static/css/main.72295c88.chunk.css.map"
+  "main.css": "/reactByNomad/static/css/main.72295c88.chunk.css",
+  "main.js": "/reactByNomad/static/js/main.5a264189.chunk.js",
+  "main.js.map": "/reactByNomad/static/js/main.5a264189.chunk.js.map",
+  "runtime~main.js": "/reactByNomad/static/js/runtime~main.ec99f3fe.js",
+  "runtime~main.js.map": "/reactByNomad/static/js/runtime~main.ec99f3fe.js.map",
+  "static/js/2.7e663f1c.chunk.js": "/reactByNomad/static/js/2.7e663f1c.chunk.js",
+  "static/js/2.7e663f1c.chunk.js.map": "/reactByNomad/static/js/2.7e663f1c.chunk.js.map",
+  "index.html": "/reactByNomad/index.html",
+  "precache-manifest.fbf6aedd24c71e7c8fbe40cd607a6c19.js": "/reactByNomad/precache-manifest.fbf6aedd24c71e7c8fbe40cd607a6c19.js",
+  "service-worker.js": "/reactByNomad/service-worker.js",
+  "static/css/main.72295c88.chunk.css.map": "/reactByNomad/static/css/main.72295c88.chunk.css.map"
 }
